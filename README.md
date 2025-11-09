@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🏋️‍♂️ Tienda Deportiva Online — Simulacro Proyecto Intermodular
 
