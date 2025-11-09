@@ -1,6 +1,3 @@
-Perfecto 🔥 Aquí tienes un **README.md completo, profesional y adaptado** al proyecto que tienes en tu repositorio [`simulacroproyectointermodular`](https://github.com/piero7ov/simulacroproyectointermodular).
-Está redactado en formato Markdown listo para subir directamente a GitHub:
-
 ---
 
 ````markdown
