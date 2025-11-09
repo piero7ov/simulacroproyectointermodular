@@ -1,4 +1,3 @@
-````markdown
 # 🏋️‍♂️ Tienda Deportiva Online — Simulacro Proyecto Intermodular
 
 Proyecto desarrollado con **Flask** y **SQLite3** que simula el **frontend dinámico** de una tienda deportiva online.  
@@ -107,8 +106,9 @@ simulacroproyectointermodular/
 
 **Piero Olivares Velasquez**
 Desarrollador en formación — Proyecto académico intermodular
-📍 Perú
+📍 Valencia
 💬 [GitHub: @piero7ov](https://github.com/piero7ov)
+💬 [GitHub Curriculum](https://piero7ov.github.io/curriculum/)
 
 ---
 
